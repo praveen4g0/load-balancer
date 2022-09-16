@@ -6,7 +6,7 @@ uses round robin algorithm.
 
 ## Running it
 
-Start multiple instances of `server.py`
+Start multiple instances of `app.go`
 
 ```bash
 
